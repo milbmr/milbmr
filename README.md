@@ -6,6 +6,6 @@ I'm a frontend developer with a passion for creating user-friendly and visually 
 
 💻 Check out my [website](https://miloud.vercel.app/) to know more about me. 
 
-📫 Want to get in touch? Feel free to send me an [email](miloamg@gmail.com).
+📫 Want to get in touch? Feel free to send me an email miloamg@gmail.com.
 
 Thanks for stopping by!
